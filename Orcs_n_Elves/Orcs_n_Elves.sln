@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Orcs_n_Elves", "Orcs_n_Elves\Orcs_n_Elves.vcxproj", "{AEF63128-7998-4750-94FA-519F66ED2DF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF63128-7998-4750-94FA-519F66ED2DF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AEF63128-7998-4750-94FA-519F66ED2DF1}.Debug|Win32.Build.0 = Debug|Win32
+		{AEF63128-7998-4750-94FA-519F66ED2DF1}.Release|Win32.ActiveCfg = Release|Win32
+		{AEF63128-7998-4750-94FA-519F66ED2DF1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
